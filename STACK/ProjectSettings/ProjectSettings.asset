@@ -631,10 +631,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 086209a4-29a4-4b28-a7f0-62c6ce04cfb0
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: STACK
+  organizationId: ba_ku
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
